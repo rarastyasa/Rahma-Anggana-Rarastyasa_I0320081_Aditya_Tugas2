@@ -1,0 +1,31 @@
+print("### Identitas Pribadi ###")
+Nama_lengkap = "Rahma Anggana Rarastyasa"
+Nama_panggilan = "Rara"
+Tempat_lahir = "Kediri"
+Tanggal_sekarang = 12
+Bulan_sekarang = 3
+Tahun_sekarang = 2021
+Tanggal_lahir = 4
+Bulan_lahir = 11
+Tahun_lahir = 2001
+Umur_bulan = ((Tanggal_sekarang - Tanggal_lahir)/30) + (Bulan_sekarang - Bulan_lahir) + ((Tahun_sekarang - Tahun_lahir)*12)
+Agama = "Islam"
+Jenis_kelamin = "Perempuan"
+Golongan_darah = "O"
+Alamat_rumah = "Jalan H. Abu Alim, Jatisari, Krenceng, Kepung, Kediri"
+Hobi = "Jalan-jalan"
+Cita_cita = "Pengusaha"
+Jumlah_saudara = "Empat"
+Kode_pos = 64293
+Berat_badan = "65 Kg"
+Tinggi_badan = "163 Cm"
+Ukuran_sepatu = "39 Cm"
+Pekerjaan = "mahasiswa"
+Kewarganegaraan = "Indonesia"
+Jurusan = "S-1 Teknik Industri"
+Fakultas = "Teknik"
+Angkatan = 2020
+Jalur_masuk = "SBMPTN"
+Perguruan_tinggi = "Universitas Sebelas Maret"
+Email = "rahmaanggana04@gmail.com"
+print("Halo! Kenalin namaku",Nama_lengkap,"\n","aku biasa dipanggil",Nama_panggilan,"\n","aku lahir di",Tempat_lahir,"\n","Sekarang umurku",Umur_bulan,"bulan","\n","agamaku",Agama,"\n","jenis kelaminku",Jenis_kelamin,"\n","golongan darahku",Golongan_darah,"\n","alamat rumahku",Alamat_rumah,"\n","hobiku",Hobi,"\n","aku ingin menjadi seorang",Cita_cita,"\n","jumlah saudara kandungku",Jumlah_saudara,"orang","\n","kode pos daerahku",Kode_pos,"\n","berat badanku",Berat_badan,"\n","tinggi badanku",Tinggi_badan,"\n","ukuran sepatuku",Ukuran_sepatu,"\n","aku adalah seorang",Pekerjaan,"\n","aku berkewarganegaraan",Kewarganegaraan,"\n","aku mengambil Jurusan",Jurusan,"\n","Fakultas",Fakultas,"\n","angkatan",Angkatan,"\n",Perguruan_tinggi,"\n","emailku",Email,"\n")
